@@ -1,0 +1,36 @@
+/* Common device sizes for 2022 */
+/* 
+    Mobile: 360 x 640
+    Mobile: 375 x 667
+    Mobile: 360 x 720
+    iPhone X: 375 x 812
+    Pixel 2: 411 x 731
+    Tablet: 768 x 1024
+    Laptop: 1366 x 768
+    High-res laptop or desktop: 1920 x 1080
+*/
+/* Bootstrap breakpoints */
+/* They use media queries to target landscape phones (576px), tablets (768px), laptops (992px) and extra large desktop screens (1200px). */
+
+/* Mobile View < 576px */
+body {
+}
+
+section {
+}
+
+/* Landscape Mobile View < 768px */
+@media only screen and (min-width: 576px) {
+}
+
+/* Tablet view < 992px */
+@media only screen and (min-width: 768px) {
+}
+
+/* Laptop view < 1200px */
+@media only screen and (min-width: 992px) {
+}
+
+/* Desktop view > 1200px */
+@media only screen and (min-width: 1200px) {
+}
